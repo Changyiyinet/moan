@@ -12,6 +12,9 @@
 #import "MYRandomChatViewController.h"
 #import "MYPutQuestionViewController.h"
 
+
+
+
 @interface MYDiscoverMianController ()<UIScrollViewDelegate>
 @property(strong,nonatomic) MYTitleMenuView * titView;
 @property(strong,nonatomic) UIScrollView * scrollView;
